@@ -1,6 +1,6 @@
 ---
 layout: single
-title : 프로그램, Java 기초
+title : ElasticSearch 개념 정리
 ---
 
 ## Elasticsearch
