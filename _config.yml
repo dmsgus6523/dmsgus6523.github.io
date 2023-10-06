@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "dark" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Will the future be kind to you?"
+title                    : "한걸음 한걸음 작지만 나아가자"
 title_separator          : "-"
-subtitle                 : "그대의 미래로" # site tagline that appears below site title in masthead
-name                     : "Gondo Gondo"
+subtitle                 : "" # site tagline that appears below site title in masthead
+name                     : "Findley"
 description              : "An amazing website."
 url                      : "https://dmsgus6523.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -102,10 +102,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "GonDoGonDo"
+  name             : "Findley"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "In My Workshop"
+  bio              : ""
+  location         : "workspace"
   email            :
   links:
     - label: "Email"
