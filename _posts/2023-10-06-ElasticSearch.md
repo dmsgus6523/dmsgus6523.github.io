@@ -30,6 +30,20 @@ Elasticsearch는 Apache Lucene 기반으로 만들어진 검색 엔진이며 Ela
 |Kibana|Elasticsearch 검색 결과를 바탕으로 데이터 시각화 및 모니터링 지원|
 
 </div>
+
+<table>
+	<th>테이블</th>
+	<th>만들기</th>
+	<tr>
+		<td>첫번째 칸</td>
+		<td>두번째 칸</td>
+	</tr>
+	<tr>
+		<td>첫번째 칸</td>
+		<td>두번째 칸</td>
+	</tr>
+</table>
+
 <br/><br/>
 
 #### - Elasticsearch 구성 &nbsp;(Elasticsearch 7.0 이후 기준)
