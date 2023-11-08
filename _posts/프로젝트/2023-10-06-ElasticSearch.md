@@ -5,7 +5,7 @@ title : ElasticSearch 개념 정리
 toc: true
 toc_sticky: true
 toc_lable: "프로젝트"
-categories: ['study','project']
+categories: ['project']
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/ref_list.css' }}">
