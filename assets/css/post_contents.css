@@ -11,6 +11,17 @@
 	padding-bottom:5%;
 	font-size: 14px;
 }
+.minimal_contents_box{
+	padding-left: 5%;
+	padding-bottom:3%;
+	font-size: 13px;
+}
+.minimal_contents_head{
+	padding-left: 7%;	
+}
+.minimal_contents_text{
+	padding-left: 9%;	
+}
 .summary_box{
 	
 }
