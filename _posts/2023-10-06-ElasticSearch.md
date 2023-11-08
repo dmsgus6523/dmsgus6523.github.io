@@ -6,13 +6,19 @@ toc_sticky: true
 toc_lable: "프로젝트"
 ---
 
+<link rel="stylesheet" href="{{ '/assets/css/refList.css' }}">
+
+<div class="refContents">
+  <span class="refSpan">참고 : </span>
+  <div class="refDiv">
+  https://pearlluck.tistory.com/695 , https://the-dev.tistory.com/30, https://twofootdog.tistory.com/53, https://needjarvis.tistory.com/579,  https://cornswrold.tistory.com/556, https://choseongho93.tistory.com/231 , https://www.elastic.co/guide/kr/elasticsearch/reference/current/gs-basic-concepts.html
+  </div>
+</div>
+
+
+
 ## Elasticsearch
-
-참고 : https://pearlluck.tistory.com/695 , https://the-dev.tistory.com/30, https://twofootdog.tistory.com/53, https://needjarvis.tistory.com/579,  https://cornswrold.tistory.com/556, https://choseongho93.tistory.com/231 , https://www.elastic.co/guide/kr/elasticsearch/reference/current/gs-basic-concepts.html
-<br/><br/>
-
-
-> Elasticsearch란  
+#### - Elasticsearch란  
 
 Elasticsearch는 Apache Lucene 기반으로 만들어진 검색 엔진이며 Elasticsearch 개별적으로 사용 가능하고 아니면 ‘ELK Stack’ 으로 사용 되기도 한다
 <br/><br/>
