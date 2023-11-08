@@ -2,7 +2,7 @@
 layout: archive
 ---
 
-{{ content }}
+<!--{{ content }}-->
 
 <h3 class="archive__subtitle">카테고리</h3>
 
