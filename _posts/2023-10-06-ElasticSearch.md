@@ -1,6 +1,9 @@
 ---
 layout: single
 title : ElasticSearch 개념 정리
+toc: true
+toc_sticy: true
+toc_lable: 프로젝트
 ---
 
 ## Elasticsearch
