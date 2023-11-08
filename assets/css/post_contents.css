@@ -11,23 +11,28 @@
 	padding-bottom:5%;
 	font-size: 14px;
 }
+
 .minimal_contents_box{
-	padding-left: 5%;
+	padding-left: 3%;
+	padding-bottom:3%;
+	font-size: 14px;
+}
+.minimal_contents_head{
+	padding-left: 4%;	
+}
+.minimal_contents_text{
+	padding-left: 5%;	
+}
+
+
+.minimal_second_contents_box{
+	padding-left: 6%;
 	padding-bottom:3%;
 	font-size: 13px;
 }
-.minimal_contents_head{
+.minimal_second_contents_head{
 	padding-left: 7%;	
 }
-.minimal_contents_text{
-	padding-left: 9%;	
+.minimal_second_contents_text{
+	padding-left: 8%;	
 }
-.summary_box{
-	
-}
-/*ul li{
-	padding-bottom: 2em;
-}
-ul li span{
-	padding-top: 2px;
-}*/
