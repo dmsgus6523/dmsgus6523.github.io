@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Introduce"
+  - title: "자기소개"
     url: /about/
-  - title: "Category"
+  - title: "카테고리"
     url: "/categories/"
-  - title: "Tags"
-    url: /tags/
+  #- title: "Tags"
+  # url: /tags/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
