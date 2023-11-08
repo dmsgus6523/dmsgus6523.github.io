@@ -18,7 +18,7 @@ Elasticsearch는 Apache Lucene 기반으로 만들어진 검색 엔진이며 Ela
 <div style="text-align:centerl">
 
 |명칭|역할|
-|:--|:--|
+|:---|:---|
 |Elasticsearch|Logstash 에서 받은 데이터를 색인 및 조회|
 |Logstash|다양한 Resource (DB, File 등) 데이터를 수집, 집계, Parsing 하여 Elasticsearch에 수집한 데이터 전달|
 |Kibana|Elasticsearch 검색 결과를 바탕으로 데이터 시각화 및 모니터링 지원|
