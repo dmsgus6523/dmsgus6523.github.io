@@ -47,6 +47,7 @@ toc_lable: "프로젝트"
 </div>
 
 #### - Elasticsearch 구성 &nbsp;(Elasticsearch 7.0 이후 기준)
+
 <div class="contents_box">
   <ul>
     <li>
