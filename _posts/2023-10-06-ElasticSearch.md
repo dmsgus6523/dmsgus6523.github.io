@@ -27,7 +27,7 @@ toc_lable: "프로젝트"
 #### - ELK Stack
 <div class="contents_box">
   <div style="text-align:centerl">
-    <table>
+    <table class="inner_table_font">
       <th>명칭</th>
       <th>역할</th>
       <tr>
@@ -65,7 +65,7 @@ toc_lable: "프로젝트"
     <tr>
       <td></td>
       <td>
-        <table>
+        <table class="inner_table_font">
           <tr>
             <td>마스터 노드</td>
             <td>인덱스 생성/삭제 등 클러스터 전반적 관리</td>
@@ -90,18 +90,3 @@ toc_lable: "프로젝트"
       <td>인덱스를 분산 저장하기 위해 쪼개 놓은 단위 저장소</td>
     </tr>
   </table>
-
-
-  <!--
-  <div class="minimal_contents_box">
-    <div class="minimal_contents_head"></div>
-    <span class="minimal_contents_text"></span>
-      <div class="minimal_second_contents_box">
-        <div class="minimal_second_contents_head">마스터 노드</div>
-        <span class="minimal_second_contents_text">인덱스 생성/삭제 등 클러스터 전반적 관리</span>
-        <div class="minimal_second_contents_head">데이터 노드</div>
-        <span class="minimal_second_contents_text">실질적인 데이터를 저장하며 검색,통계와 같은 데이터 관련 작업 관리</span>
-      </div>
-  </div>
-  -->
-
