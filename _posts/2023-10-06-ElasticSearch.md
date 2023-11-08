@@ -48,9 +48,11 @@ toc_lable: "프로젝트"
 
 #### - Elasticsearch 구성
 <div class="contents_box">
-  <div class="minimal_contents_box">
+
+  <div class="summary_text">
     (Elasticsearch 7.0 이후 기준)
   </div>
+  
   <table>
     <tr>
       <td>클러스터 (Cluster)</td>
@@ -59,6 +61,21 @@ toc_lable: "프로젝트"
     <tr>
       <td>노드 (Node)</td>
       <td>클러스터에 포함된 단일 서버</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        <table>
+          <tr>
+            <td>마스터 노드</td>
+            <td>인덱스 생성/삭제 등 클러스터 전반적 관리</td>
+          </tr>
+          <tr>
+            <td>데이터 노드</td>
+            <td>실질적인 데이터를 저장하며 검색,통계와 같은 데이터 관련 작업 관리</td>
+          </tr>
+        </table>
+      </td>
     </tr>
     <tr>
       <td>도큐먼트 (Document)</td>
