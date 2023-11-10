@@ -3,8 +3,7 @@ main:
   - title: "자기소개"
     url: /about/
   - title: "카테고리"
-    url: "/category"
-    #url: "/categories/categories/"
+    url: "/categories/categories/"
   #- title: "Tags"
   # url: /tags/
   # - title: "About"
