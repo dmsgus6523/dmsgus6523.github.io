@@ -50,11 +50,9 @@ categories: ['project']
 
 #### - Elasticsearch 구성
 <div class="contents_box">
-
-  <div class="summary_text">
+  <div class="minimal_contents_box">
     (Elasticsearch 7.0 이후 기준)
   </div>
-  
   <table>
     <tr>
       <td>클러스터 (Cluster)</td>
