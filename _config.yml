@@ -24,8 +24,8 @@ description              : "An amazing website."
 url                      : "https://dmsgus6523.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : /assets/img/logo_teaser.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : /assets/img/logo_pc.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : /assets/img/logos/logo_teaser.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : /assets/img/logos/logo_pc.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Pindley.C"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/img/logos/logo_bio.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   #location         : "workspace"
   email            :
