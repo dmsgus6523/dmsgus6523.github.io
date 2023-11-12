@@ -24,6 +24,7 @@
   a {
     position: relative;
     z-index: 10;
+    text-decoration: none; //archive 레이아웃 a태그 언더바 제거
   }
 
   a[rel="permalink"] {

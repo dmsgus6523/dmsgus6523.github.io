@@ -1,6 +1,3 @@
-.main_contents_box{
-
-}
 .contents_box{
 	margin-left: 3%;
 	padding-bottom:10%;
@@ -13,9 +10,8 @@
 }
 .minimal_contents_box{
 	padding-top: 1%;
-	padding-left: 3%;
-	padding-bottom:3%;
-	font-size: 14px;
+	padding-bottom:2%;
+	font-size: 16px;
 	font-style: italic;
 }
 .inner_table_font{

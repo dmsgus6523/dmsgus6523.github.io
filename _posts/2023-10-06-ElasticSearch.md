@@ -1,9 +1,8 @@
 ---
 layout: single
 title : ElasticSearch 개념 정리
-toc: true
-toc_sticky: true
-toc_lable: "프로젝트"
+categories: project
+author_profile: false
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/ref_list.css' }}">
@@ -18,13 +17,13 @@ toc_lable: "프로젝트"
 
 
 
-## Elasticsearch
-#### - Elasticsearch란  
+## 1. Elasticsearch
+#### 1.1. Elasticsearch란  
 <div class="contents_box">
-  Elasticsearch는 Apache Lucene 기반으로 만들어진 검색 엔진이며 Elasticsearch 개별적으로 사용 가능하고 아니면 ‘ELK Stack’ 으로 사용 되기도 한다
+  Elasticsearch는 Apache Lucene 기반으로 만들어진 검색 엔진이며 Elasticsearch 개별적으로 사용 가능하고<br/>‘ELK Stack’ 으로 사용 되기도 한다
 </div>
 
-#### - ELK Stack
+#### 1.2. ELK Stack
 <div class="contents_box">
   <div style="text-align:centerl">
     <table class="inner_table_font">
@@ -46,10 +45,10 @@ toc_lable: "프로젝트"
   </div>
 </div>
 
-#### - Elasticsearch 구성
+#### 1.3. Elasticsearch 구성
 <div class="contents_box">
   <div class="minimal_contents_box">
-    (Elasticsearch 7.0 이후 기준)
+    (Elasticsearch 7.0 이후 버전을 기준으로 함)
   </div>
   <table>
     <tr>
