@@ -1,5 +1,11 @@
 .ref_contents{
 	font-size: 12px;
 	font-style: italic;
+	padding-top: 10%;
 	padding-bottom: 5%;
+}
+
+.ref_list{
+	padding-top: 2px;
+	padding-left: 20px;	
 }

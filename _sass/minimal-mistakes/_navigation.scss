@@ -148,7 +148,8 @@
     }
 
     &.disabled {
-      color: rgba($muted-text-color, 0.5);
+      //color: rgba($muted-text-color, 0.1);
+      color: rgba($muted-text-color, 0.1); //disable 텍스트 투명도 수정
       pointer-events: none;
       cursor: not-allowed;
     }

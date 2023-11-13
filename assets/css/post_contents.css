@@ -17,3 +17,11 @@
 .inner_table_font{
 	font-size: 12px;
 }
+.table_content{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.table_content table .header{
+	background-color: #ffffb6;
+	font-weight: bolder;
+}

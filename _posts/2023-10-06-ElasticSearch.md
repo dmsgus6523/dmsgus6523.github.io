@@ -5,18 +5,6 @@ categories: project
 author_profile: false
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/ref_list.css' }}">
-<link rel="stylesheet" href="{{ '/assets/css/post_contents.css' }}">
-
-<div class="ref_contents">
-  <span>참고 : </span>
-  <div>
-  https://pearlluck.tistory.com/695 , https://the-dev.tistory.com/30, https://twofootdog.tistory.com/53, https://needjarvis.tistory.com/579,  https://cornswrold.tistory.com/556, https://choseongho93.tistory.com/231 , https://www.elastic.co/guide/kr/elasticsearch/reference/current/gs-basic-concepts.html
-  </div>
-</div>
-
-
-
 ## 1. Elasticsearch
 #### 1.1. Elasticsearch란  
 <div class="contents_box">
@@ -87,3 +75,11 @@ author_profile: false
       <td>인덱스를 분산 저장하기 위해 쪼개 놓은 단위 저장소</td>
     </tr>
   </table>
+
+
+<div class="ref_contents">
+  <span>참고자료</span>
+  <div class="ref_list">
+  https://pearlluck.tistory.com/695 , https://the-dev.tistory.com/30 , https://twofootdog.tistory.com/53 ,<br/>https://needjarvis.tistory.com/579 , https://cornswrold.tistory.com/556 ,https://choseongho93.tistory.com/231 ,<br/>https://www.elastic.co/guide/kr/elasticsearch/reference/current/gs-basic-concepts.html
+  </div>
+</div>
