@@ -39,18 +39,39 @@
 	padding: 5px 5px 5px 5px;
 	margin-top: 25px;
 }
+
 .explanation_blackbox .text{
 	padding: 5px 5px 5px 5px;
 }
+
 .explanation_blackbox .text span{
 	font-size: 14px;
 	padding-left: 5px;
 }
+
 .summary_list_box div{
 	padding-bottom: 5px;;
 }
 
+.intro_box{
+	background-color: #ffffff;
+	color: #000;
+	border: solid 1px #bfbfbf;
+	border-radius: 4px;
+	font-size: 16px;
+	padding: 5px 5px 5px 5px;
+	margin-bottom: 25px;
+}
 
+.intro_box .text{
+	padding: 5px 5px 5px 5px;
+}
+
+.intro_bot .number_icon{
+	font-size: 18px;
+}
+
+/* 패딩 및 마진 옵션 CSS */
 .pl5{
 	padding-left: 5px;
 }
